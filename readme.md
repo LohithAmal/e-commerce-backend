@@ -14,6 +14,10 @@ This is a Ecommerce backend application build with Sequelize ORM as UFT bootcamp
 
 This application work with sequelize ORM using MySQL database. No front-end for this application, please see the below video for the functionality demostration in insominia.
 
+![](images/one.JPG)
+![](images/two.JPG)
+![](images/three.JPG)
+
 Here is the Youtube link for the demostration video.
 [CLICK HERE FOR VIDEO](https://www.youtube.com/watch?v=ihpof1sciNE)
 
