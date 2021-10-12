@@ -13,8 +13,9 @@ This is a Ecommerce backend application build with Sequelize ORM as UFT bootcamp
 ## Overview
 
 This application work with sequelize ORM using MySQL database. No front-end for this application, please see the below video for the functionality demostration in insominia.
-********
-Here is the Youtube link for the demostration video
+
+Here is the Youtube link for the demostration video.
+[CLICK HERE FOR VIDEO](https://www.youtube.com/watch?v=ihpof1sciNE)
 
 
 ## Technologies
