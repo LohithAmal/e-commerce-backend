@@ -23,7 +23,7 @@ Here is the Youtube link for the demostration video.
 
 
 ## Technologies
-This Project used tecchnolies such as:
+This Project used technologies such as:
 * [Javascript](https://www.javascript.com/)
 * [Node.js](https://nodejs.org/en/)
 * [Sequelize](https://www.npmjs.com/package/sequelize)
